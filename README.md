@@ -1,4 +1,4 @@
-- 🙌"Hola mundo"
+- # hey there🙌
 - 👋 Hi, I’m @Liquenson
 - 👀 I’m interested in devops engineer
 - 🌱 I’m currently learning ubuntu
