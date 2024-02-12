@@ -1,7 +1,7 @@
 - 🙌"Hola mundo"
 - 👋 Hi, I’m @Liquenson
 - 👀 I’m interested in devops engineer
-- 🌱 I’m currently learning git, github, html & python
+- 🌱 I’m currently learning ubuntu
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me liquensondesign@gmail.com
 - 😄 Pronouns: he
