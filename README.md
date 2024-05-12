@@ -1,41 +1,16 @@
-# Mi Proyecto Web
 
-Una aplicación web simple para gestionar tareas.
+3. Abre tu navegador web y visita [http://localhost:5000/](http://localhost:5000/). Deberías ver el mensaje "¡Hola mundo!".
 
-## Requisitos
+## Contribuir
 
-- Node.js
-- MongoDB
+Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes hacerlo siguiendo estos pasos:
 
-## Instalación
+1. Haz un fork del repositorio.
+2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
+3. Haz tus cambios y realiza un commit (`git commit -am 'Agrega nueva característica'`).
+4. Sube tus cambios (`git push origin feature/nueva-caracteristica`).
+5. Abre un pull request.
 
-1. Clona el repositorio: `git clone https://github.com/tuusuario/mi-proyecto-web.git`
-2. Entra al directorio del proyecto: `cd mi-proyecto-web`
-3. Instala las dependencias: `npm install`
-4. Configura la base de datos en `config/database.js`
-5. Inicia la aplicación: `npm start`
+## Créditos
 
-## Uso
-
-- Abre la aplicación en tu navegador: `http://localhost:3000`
-- Crea, edita y elimina tus tareas.
-
-## Contribución
-
-¡Contribuciones son bienvenidas! Por favor, sigue estos pasos:
-
-1. Forkea el proyecto
-2. Crea tu rama de características (`git checkout -b feature/nueva-funcionalidad`)
-3. Haz commit de tus cambios (`git commit -am 'Añade nueva funcionalidad'`)
-4. Sube tus cambios (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-
-- Autor: Tu Nombre
-- Email: tu@email.com
-- Twitter: [@tuusuario](https://twitter.com/tuusuario)
+Este proyecto fue creado por [Tu Nombre](https://github.com/tu-usuario).
