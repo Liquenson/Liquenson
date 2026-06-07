@@ -155,17 +155,6 @@ Vagrant (IaC)
 
 ---
 
-## $ git log --stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Liquenson&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1B2A&title_color=2E86AB&icon_color=2E86AB&text_color=E8F4FD" height="155" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liquenson&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1B2A&title_color=2E86AB&text_color=E8F4FD" height="155" />
-
-</div>
-
----
-
 <div align="center">
 
 **[lracloudops.com](https://www.lracloudops.com/)** · DevOps & Cloud Consulting · Las Palmas de Gran Canaria, España
