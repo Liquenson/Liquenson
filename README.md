@@ -1,10 +1,12 @@
 # Ruben Liquenson
 
-**Cloud Platform Engineer | DevOps Engineer**
+**DevOps Engineer | Cloud Engineer | AWS | Kubernetes | Terraform | GitOps**
 
-Diseño y automatizo plataformas cloud de nivel producción sobre **AWS** utilizando **Kubernetes**, **Terraform** y **GitOps**.
+Ingeniero DevOps con más de 4 años de experiencia diseñando y operando infraestructuras cloud en AWS de nivel productivo. Especializado en Kubernetes (EKS), Terraform, CI/CD con Jenkins y automatización de configuración con Ansible via AWS SSM. Construyo plataformas completas siguiendo el patrón GitOps, desde la infraestructura como código hasta el despliegue automático en producción, con observabilidad integrada (Prometheus, Grafana, CloudWatch) y seguridad aplicada desde el diseño. Experiencia demostrada en entornos regulados (salud, finanzas) gestionando arquitecturas multi-AZ altamente disponibles, pipelines CI/CD end-to-end, gestión de identidades IAM y despliegues con ArgoCD + Helm Charts. Orientado a la automatización, la trazabilidad completa y el principio de infraestructura inmutable, ningún cambio manual en producción.
 
 Fundador de **LRA CloudOps**, donde desarrollo soluciones de Platform Engineering, Infrastructure as Code, automatización y observabilidad para entornos cloud.
+
+📍 Las Palmas de Gran Canaria, Canarias, España
 
 ---
 
@@ -17,27 +19,37 @@ Fundador de **LRA CloudOps**, donde desarrollo soluciones de Platform Engineerin
 
 ---
 
+## Principales aptitudes
+
+Linux · Docker · Terraform · Kubernetes · Amazon Web Services (AWS)
+
+## Stack principal
+
+AWS · Kubernetes · Terraform · Ansible · Jenkins · Docker · ArgoCD · Helm · Prometheus · Grafana · Python · Bash
+
+---
+
 ## Core Technologies
 
-| Área                           | Tecnologías                                        |
-| ------------------------------ | -------------------------------------------------- |
-| **Cloud**                      | AWS (EKS, EC2, IAM, VPC, ECR, RDS, S3, CloudWatch) |
-| **Containers & Orchestration** | Kubernetes, Docker, Helm, ArgoCD                   |
-| **Infrastructure as Code**     | Terraform, Ansible                                 |
-| **CI/CD**                      | Jenkins, GitHub Actions                            |
-| **Observability**              | Prometheus, Grafana, CloudWatch                    |
-| **Automation**                 | Python, Bash                                       |
-| **Operating Systems**          | Ubuntu, RHEL, Amazon Linux                         |
+| Área                           | Tecnologías                                                          |
+| ------------------------------ | --------------------------------------------------------------------- |
+| **Cloud**                      | AWS (EKS, EC2, IAM, VPC, ECR, RDS, S3, CloudWatch, Organizations, Config, GuardDuty) |
+| **Infrastructure as Code**     | Terraform, Ansible                                                    |
+| **Containers & Orchestration** | Kubernetes, Docker, Helm, ArgoCD                                       |
+| **CI/CD**                      | Jenkins, GitHub Actions                                                |
+| **Observability**              | Prometheus, Grafana, CloudWatch                                        |
+| **Automation**                 | Python, Bash                                                           |
+| **Operating Systems**          | Ubuntu, RHEL, Amazon Linux                                             |
 
 ---
 
 ## Engineering Principles
 
 * Infrastructure as Code
-* GitOps
-* Security by Design
-* Automation First
 * Least Privilege
+* Security by Design
+* GitOps
+* Automation First
 * Immutable Infrastructure
 * Observability First
 
@@ -45,20 +57,27 @@ Fundador de **LRA CloudOps**, donde desarrollo soluciones de Platform Engineerin
 
 ## Featured Projects
 
+### AWS & Infraestructura Productiva
+
+| Proyecto                  | Descripción                                                                                     |
+| -------------------------- | ------------------------------------------------------------------------------------------------ |
+| **AWS Terraform DevOps**  | Infraestructura AWS modular lista para producción — VPC multi-AZ, EKS, RDS, ECR, y capa de Landing Zone (Organizations, Identity Center, Config, CloudTrail, GuardDuty). |
+| **GitOps Stack**          | Plataforma GitOps sobre AWS EKS, con gestión de identidades IAM como código y patrón de acceso basado en roles. |
+| **Kubernetes On-Premise** | Clúster Kubernetes multi-nodo construido desde cero con kubeadm (Vagrant/VirtualBox), Calico CNI, GitOps con ArgoCD. |
+
+### Exploratorio / I+D
+
 | Proyecto                  | Descripción                                                 |
-| ------------------------- | ----------------------------------------------------------- |
-| **GitOps Stack**          | Plataforma GitOps sobre AWS EKS.                            |
-| **Kubernetes On-Premise** | Clúster Kubernetes construido desde cero con kubeadm.       |
-| **AWS Terraform DevOps**  | Infraestructura AWS modular preparada para producción.      |
-| **AWS DevOps Agent**      | Agente basado en IA para automatizar operaciones sobre AWS. |
-| **Linux Fleet Manager**   | Automatización de servidores Linux mediante SSH.            |
-| **Multi Cloud Platform**  | Plataforma DevOps para AWS, Azure y Google Cloud.           |
+| ------------------------- | ------------------------------------------------------------ |
+| **AWS DevOps Agent**      | Agente CLI experimental con IA para consultar infraestructura AWS en lenguaje natural. |
+| **Linux Fleet Manager**   | Toolkit de automatización Bash para gestión de flotas de servidores Linux. |
+| **Multi Cloud Platform**  | Exploración de una plataforma DevOps común para AWS, Azure y Google Cloud. |
 
 ### Repositorios
 
+* https://github.com/lra-cloud-ops/aws-terraform-devops
 * https://github.com/lra-cloud-ops/gitops-stack
 * https://github.com/lra-cloud-ops/k8s-on-premise
-* https://github.com/lra-cloud-ops/aws-terraform-devops
 * https://github.com/lra-cloud-ops/aws-devops-agent
 * https://github.com/lra-cloud-ops/linux-fleet-manager
 * https://github.com/lra-cloud-ops/multi-cloud-platform
@@ -67,10 +86,7 @@ Fundador de **LRA CloudOps**, donde desarrollo soluciones de Platform Engineerin
 
 ## Current Focus
 
+* AWS Landing Zone & Gobernanza Multi-Cuenta
 * Platform Engineering
-* Kubernetes
-* GitOps
+* Kubernetes & GitOps
 * Cloud Automation
-* AI for Cloud Operations
-* Multi-Cloud
-
