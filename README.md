@@ -1,4 +1,4 @@
-# Ruben Liquenson
+# Liquenson
 
 **DevOps Engineer | Cloud Engineer | AWS | Kubernetes | Terraform | GitOps**
 
